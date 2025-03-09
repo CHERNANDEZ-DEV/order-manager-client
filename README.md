@@ -1,4 +1,4 @@
-# 📦 Sistema de Gestión de Pedidos - Next.js
+# 📦 Sistema de gestión de pedidos - Next.js
 
 🚀 **Aplicación web** desarrollada con **Next.js, Tailwind CSS y Ant Design** para la gestión de pedidos con una interfaz moderna e intuitiva.
 
@@ -6,10 +6,15 @@
 
 ## 📌 **Características**
 ✅ **Registro y autenticación de usuarios**.
-✅ **Creación y visualización de órdenes** con interfaz amigable.  
+✅ **Creación de órdenes** con interfaz amigable.  
 ✅ **Interfaz moderna con Tailwind CSS y Ant Design**.  
 ✅ **Consumo de API con Axios**.  
 ✅ **Administración de estado utilizando "Context API**.  
+
+---
+
+## 📌 **Características extra**
+✅ **visualización de órdenes** con interfaz amigable y formato de "cards" para una mejor experiencia visual.  
 
 ---
 
