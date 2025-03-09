@@ -8,7 +8,7 @@ export async function login(email, password) {
     try {
         
         const response = await api.post("/auth/login", { email, password });
-        localStorage.setItem("authToken", response.data.access_token); // 🔹 Guarda el token
+        localStorage.setItem("authToken", response.data.access_token); 
         return { success: true };
 
     } catch (error) {
